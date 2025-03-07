@@ -11,7 +11,7 @@ public class TodoApp {
             System.out.println("2. List Tasks");
             System.out.println("3. Remove Task");
             System.out.println("4. Exit");
-            System.out.print("Enter your choice: ");
+            System.out.print("Enter your choice here: ");
 
             int choice = scanner.nextInt();
             scanner.nextLine(); // Consume the newline character
